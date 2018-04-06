@@ -1,0 +1,3 @@
+200330185	Joe		Joe		joe.joe@email.kpu.ca			BUQU_1130	INFO_1111
+200330186	Jacky		Jackey		jacky.jackey@email.kpu.ca		INFO_1211	null
+200330187	Barb		Barbara		barb.barbara@email.kpu.ca		INFO_1112	INFO_1113

@@ -1,0 +1,4 @@
+100330185	Asher		Sacks		Asher1		asher.sacks@email.kpu.ca		BUQU_1130	INFO_1211	58	73	86	83	90	46
+100330186	Brice		Burgess		Brice1		brice.burgess@email.kpu.ca		INFO_1211	INFO_1111	63	70	93	30	60	29
+100330187	Raymond		Li		Raymond1	raymond.li@email.kpu.ca			INFO_1113	INFO_1112	68	76	89	35	17	25
+100330188	Shiney		Puri		Shiney1		shiney.puri@email.kpu.ca		INFO_1112	null		65	74	82	60	77	60

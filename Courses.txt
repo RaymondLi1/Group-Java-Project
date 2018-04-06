@@ -1,0 +1,5 @@
+BUQU_1130	Business_Mathematics				Monday		8:30am	10:00am
+INFO_1111	Introduction_to_Computer_Hardware_and_Software	Tuesday		8:30am	10:00am
+INFO_1112	Principles_of_Program_Structure_and_Design_1	Wednesday	8:30am	10:00am
+INFO_1113	System_Analysis_and_Design			Thursday	8:30am	10:00am
+INFO_1211	Operating_Systems_Principles_and_Applications	Friday		8:30am	10:00am
